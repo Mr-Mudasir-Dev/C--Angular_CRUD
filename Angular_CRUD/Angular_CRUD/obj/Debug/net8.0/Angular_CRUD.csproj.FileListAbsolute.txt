@@ -283,10 +283,10 @@ C:\Users\Mudassir\Program\Backend + Frontend Project\Angular_Crud\Angular_CRUD\A
 C:\Users\Mudassir\Program\Backend + Frontend Project\Angular_Crud\Angular_CRUD\Angular_CRUD\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Mudassir\Program\Backend + Frontend Project\Angular_Crud\Angular_CRUD\Angular_CRUD\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\Mudassir\Program\Backend + Frontend Project\Angular_Crud\Angular_CRUD\Angular_CRUD\obj\Debug\net8.0\swae.build.ex.cache
-C:\Users\Mudassir\Program\Backend + Frontend Project\Angular_Crud\Angular_CRUD\Angular_CRUD\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Mudassir\Program\Backend + Frontend Project\Angular_Crud\Angular_CRUD\Angular_CRUD\obj\Debug\net8.0\Angular_.FB7A3275.Up2Date
 C:\Users\Mudassir\Program\Backend + Frontend Project\Angular_Crud\Angular_CRUD\Angular_CRUD\obj\Debug\net8.0\Angular_CRUD.dll
 C:\Users\Mudassir\Program\Backend + Frontend Project\Angular_Crud\Angular_CRUD\Angular_CRUD\obj\Debug\net8.0\refint\Angular_CRUD.dll
 C:\Users\Mudassir\Program\Backend + Frontend Project\Angular_Crud\Angular_CRUD\Angular_CRUD\obj\Debug\net8.0\Angular_CRUD.pdb
 C:\Users\Mudassir\Program\Backend + Frontend Project\Angular_Crud\Angular_CRUD\Angular_CRUD\obj\Debug\net8.0\Angular_CRUD.genruntimeconfig.cache
 C:\Users\Mudassir\Program\Backend + Frontend Project\Angular_Crud\Angular_CRUD\Angular_CRUD\obj\Debug\net8.0\ref\Angular_CRUD.dll
+C:\Users\Mudassir\Program\Backend + Frontend Project\Angular_Crud\Angular_CRUD\Angular_CRUD\obj\Debug\net8.0\Angular_CRUD.sourcelink.json
